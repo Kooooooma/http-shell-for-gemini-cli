@@ -1,0 +1,6 @@
+log.txt
+__pycache__/
+*.pyc
+package-lock.json
+openclaw.json
+openclaw
